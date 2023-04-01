@@ -1,5 +1,3 @@
-import addition
-
 def perform_operation(multiplier, multiplicand):
     result = 0
     for _ in range(multiplier):
